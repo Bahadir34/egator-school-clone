@@ -26,8 +26,8 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 3. `index.html` dosyasını tarayıcınızda açın.
 
 ## 🚀 Ekran Görüntüleri
-![](./project-views/egator-desktop.jpg)
-![](./project-views/egator-mobile.jpg)
+![](./project-views/egator-desktop.png)
+![](./project-views/egator-mobile.png)
 
 ## 👤 Katkıda Bulunma
 Projeye katkıda bulunmak isterseniz **pull request** açabilirsiniz.
